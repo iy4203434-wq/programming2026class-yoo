@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{424D4A50-62AB-422A-9BC8-EEACD8997C03}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{424D4A50-62AB-422A-9BC8-EEACD8997C03}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{424D4A50-62AB-422A-9BC8-EEACD8997C03}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{424D4A50-62AB-422A-9BC8-EEACD8997C03}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{424D4A50-62AB-422A-9BC8-EEACD8997C03}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main 2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main 2.cpp",
-              "RelativeDocumentMoniker": "HelloWorld\\main 2.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main 2.cpp*",
-              "RelativeToolTip": "HelloWorld\\main 2.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main2.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\main2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\HelloWorld\\HelloWorld\\main2.cpp*",
+              "RelativeToolTip": "HelloWorld\\main2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-09T02:18:13.166Z",
+              "WhenOpened": "2026-09-09T02:24:49.31Z",
               "EditorCaption": ""
             },
             {
