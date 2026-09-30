@@ -1,0 +1,55 @@
+﻿#include <stdio.h>
+
+int 과제2(void)
+{
+	int price, quantity;
+	int total, discount, payment, change;
+	int money, change;
+
+	printf("상품 단가(원): ");
+	scanf_s("%d", &price);
+
+	printf("수량(개): ");
+	scanf_s("%d", &quantity);
+
+	total = price * quantity;
+	discount = (int) (total * 0.1);
+	payment = total - discount;
+
+	printf("총 구매 금액: %d원\n", total);
+	printf("할인 (10%%): -%d원\n", discount);
+	printf("결제 금액: %d원\n", payment);
+
+	printf("받은 금액(원): ");
+	scanf_s("%d", &money);
+	
+	change = money - payment; 
+
+	printf ("거스름돈: %d원\n", change);
+
+	printf( "50000원권:%d장\n", change / 50000);
+	change %= 50000;
+
+	printf( "10000원권:%d장\n", change / 10000);
+	change %= 10000;
+
+	printf("1000원권:%d장\n", change / 1000);
+	change %= 1000;
+
+	printf("500원:%d개\n", change / 500);
+	change %= 500;
+
+	printf("100원:%d개\n", change / 100);
+	change %= 100;
+
+	printf("50원:%d개\n", change / 50);
+	change %= 50;
+
+	printf( "10원:%d개\n", change / 10);
+	change %= 10;
+
+	printf("1원:%d개\n", change);
+	change %= 1;
+
+	return 0;
+}

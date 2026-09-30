@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\\uACFC\uC81C2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9DC0FC-EF5C-415A-A473-FED120CDE0AA}|\uACFC\uC81C2\\\uACFC\uC81C2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\\uACFC\uC81C2\\\uACFC\uC81C2\\\uACFC\uC81C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A9DC0FC-EF5C-415A-A473-FED120CDE0AA}|\uACFC\uC81C2\\\uACFC\uC81C2.vcxproj|solutionrelative:\uACFC\uC81C2\\\uACFC\uC81C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uACFC\uC81C2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\\uACFC\uC81C2\\\uACFC\uC81C2\\\uACFC\uC81C2.cpp",
+              "RelativeDocumentMoniker": "\uACFC\uC81C2\\\uACFC\uC81C2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\programming2026class-yoo\\\uACFC\uC81C2\\\uACFC\uC81C2\\\uACFC\uC81C2.cpp*",
+              "RelativeToolTip": "\uACFC\uC81C2\\\uACFC\uC81C2.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-28T08:49:59.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
